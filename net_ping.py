@@ -220,4 +220,4 @@ if __name__ == '__main__':
     verbose_ping("heise.de")
     verbose_ping("google.com")
     verbose_ping("a-test-url-taht-is-not-available.com")
-    verbose_ping("192.168.1.1")
+    verbose_ping("192.168.23.1")
